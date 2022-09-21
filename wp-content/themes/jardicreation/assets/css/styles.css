@@ -373,7 +373,6 @@ header {
             header #cont-fla #nav-top ul li:nth-child(1) a::before {
               background-image: url(../images/mn_1.png);
               background-repeat: no-repeat;
-              content: '';
               display: flex;
               width: 90px;
               height: 78px;
@@ -465,7 +464,6 @@ header {
             header #cont-fla #nav-top ul li:nth-child(2) a::before {
               background-image: url(../images/mn_2.png);
               background-repeat: no-repeat;
-              content: '';
               display: flex;
               width: 90px;
               height: 78px;
@@ -557,7 +555,6 @@ header {
             header #cont-fla #nav-top ul li:nth-child(3) a::before {
               background-image: url(../images/mn_3.png);
               background-repeat: no-repeat;
-              content: '';
               display: flex;
               width: 90px;
               height: 78px;
@@ -649,7 +646,6 @@ header {
             header #cont-fla #nav-top ul li:nth-child(4) a::before {
               background-image: url(../images/mn_4.png);
               background-repeat: no-repeat;
-              content: '';
               display: flex;
               width: 90px;
               height: 78px;
@@ -741,7 +737,6 @@ header {
             header #cont-fla #nav-top ul li:nth-child(5) a::before {
               background-image: url(../images/mn_5.png);
               background-repeat: no-repeat;
-              content: '';
               display: flex;
               width: 90px;
               height: 78px;
@@ -833,7 +828,6 @@ header {
             header #cont-fla #nav-top ul li:nth-child(6) a::before {
               background-image: url(../images/mn_6.png);
               background-repeat: no-repeat;
-              content: '';
               display: flex;
               width: 90px;
               height: 78px;
@@ -925,7 +919,6 @@ header {
             header #cont-fla #nav-top ul li:nth-child(7) a::before {
               background-image: url(../images/mn_7.png);
               background-repeat: no-repeat;
-              content: '';
               display: flex;
               width: 90px;
               height: 78px;
