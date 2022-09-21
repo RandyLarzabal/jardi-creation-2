@@ -1107,6 +1107,7 @@ header {
   #central .ttl {
     padding-top: 50px; }
   #central .home-encart {
+    margin-top: 16px;
     display: -webkit-box;
     display: -webkit-flex;
     display: -moz-flex;
@@ -1198,7 +1199,7 @@ header {
           line-height: 0; }
           #central .home-encart .activ ul li img {
             max-width: 100%;
-            height: auto; }
+  }
           @media only screen and (max-width: 532px) {
             #central .home-encart .activ ul li {
               width: 100%;
@@ -1398,6 +1399,7 @@ header {
             display: flex;
             align-items: center;
             justify-content: space-between;
+            height: 250px;
             flex-wrap: wrap; }
             #central #cont-top .txt-ac .ph-ac .bl-actu .actu .img {
               width: 250px; }
@@ -1736,7 +1738,9 @@ header {
             margin-bottom: 15px; } }
         #central .photos ul li img {
           max-width: 100%;
-          height: auto; }
+
+          height: 166px;
+          object-fit: cover;}
   #central .prestations {
     padding: 30px;
     background: #eeeeee;
