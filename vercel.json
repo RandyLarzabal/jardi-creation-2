@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "target": "https://jardicreation.fr/$1",
+      "permanent": true
+    }
+  ]
+}
